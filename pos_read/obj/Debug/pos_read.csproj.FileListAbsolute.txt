@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2012\Projects\pos_read\pos_read\bin\Debug\pos_read.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\pos_read\pos_read\bin\Debug\pos_read.exe
+c:\users\admin\documents\visual studio 2012\Projects\pos_read\pos_read\bin\Debug\pos_read.pdb
+c:\users\admin\documents\visual studio 2012\Projects\pos_read\pos_read\obj\Debug\pos_read.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\pos_read\pos_read\obj\Debug\pos_read.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\pos_read\pos_read\obj\Debug\pos_read.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\pos_read\pos_read\obj\Debug\pos_read.exe
+c:\users\admin\documents\visual studio 2012\Projects\pos_read\pos_read\obj\Debug\pos_read.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\pos_read\pos_read\obj\Debug\pos_read.csprojResolveAssemblyReference.cache
